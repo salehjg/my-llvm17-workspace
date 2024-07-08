@@ -1,0 +1,3 @@
+[submodule "mlir-tutorial"]
+	path = mlir-tutorial
+	url = https://github.com/j2kun/mlir-tutorial.git
