@@ -1,0 +1,9 @@
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/CMakeFiles/intrinsics_gen.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/CMakeFiles/omp_gen.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/CMakeFiles/acc_gen.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/CMakeFiles/RISCVTargetParserTableGen.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/src/CMakeFiles/calc.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/media/saleh/LinuxData/02_workspace/my-llvm17-workspace/Chapter02/calc/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
